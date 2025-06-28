@@ -3,7 +3,7 @@
 
 # Hi, I'm Ohakwe Love
 
-> *"Code is like poetry — and I'm learning to write verses that solve real-world problems."*
+> *"Code is like poetry and I'm learning to write verses that solve real-world problems."*
 
 I’m a **Full-Stack Web Developer** from Nigeria with a big dream and an even bigger work ethic. I didn't come from a formal tech background, but with consistent effort, a curious mind, and a hunger to create, I've learnt the skills to build web apps that actually **work and wow**.
 
@@ -47,7 +47,7 @@ I’m most inspired by **Mark Zuckerberg**, but how he started small but kept bu
 ---
 
 ### Quote I Live By
-> _"You don’t need to be great to start. But you have to start to be great."_ — Zig Ziglar
+> _"You don’t need to be great to start. But you have to start to be great."_ by Zig Ziglar
 
 ---
 
