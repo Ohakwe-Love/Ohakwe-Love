@@ -36,7 +36,7 @@ I’m most inspired by **Mark Zuckerberg**, but how he started small but kept bu
 - I love reading and drawing ideas from books, tech blogs, and real-world stories.
 - I believe that **software should be useful first, beautiful second.**
 - My mission is to **build products that improve lives**, one line of code at a time.
-- I enjoy challenges that make me think deeply — that’s why I’m drawn to full-stack work.
+- I enjoy challenges that make me think deeply, that’s why I’m drawn to the tech world as the world evolves around it.
 
 ---
 
