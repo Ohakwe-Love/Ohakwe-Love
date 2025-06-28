@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="assets/imgs/1.jpg" alt="Ohakwe Love" style="width: 200px; height: 200px; border-radius: 50%; border: 2px solid orange; margin: auto" />
+<img src="assets/imgs/1.jpg" alt="Ohakwe Love" width="300px" height="auto" />
 
 # Hi, I'm Ohakwe Love
 
